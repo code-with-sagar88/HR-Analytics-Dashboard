@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard  
 
-A Power BI project by **Sagar Dabhade** showcasing an interactive dashboard for analyzing **employee distribution, salary trends, and HR performance metrics**.  
+A Power BI project by **Sagar Dabhade** showcasing interactive dashboards for analyzing **employee insights, salary patterns, and departmental performance**.  
 
 ---
 
@@ -12,42 +12,41 @@ A Power BI project by **Sagar Dabhade** showcasing an interactive dashboard for 
 ---
 
 ## 🚀 Key Highlights  
-✅ Department-wise Employee Distribution  
-✅ Salary Analysis across Roles & Departments  
-✅ State-wise Workforce Presence  
-✅ Gender Diversity Overview  
-✅ Employee Tenure & Attrition Insights  
+✅ Employee distribution by department and state  
+✅ Salary analysis across roles and departments  
+✅ Attrition and employee retention insights  
+✅ Department-wise workforce strength  
+✅ HR metrics visualized for decision-making  
 
 ---
 
 ## 🖼️ Dashboard  
 
-### 1️⃣ HR Analytics Dashboard  
-- KPIs: Total Employees, Average Salary, Total Departments, Gender Ratio  
-- Department-wise Employee Distribution  
-- Salary vs Role Analysis  
-- State-wise Employee Headcount  
-- Employee Experience & Tenure Breakdown  
+### HR Analytics Dashboard  
+- KPIs: Employee Count, Attrition Rate, Average Salary, Department Count  
+- Employee distribution by state and department  
+- Salary trends across roles  
+- Attrition & retention insights  
+- Department strength overview  
 
-![HR Analytics Dashboard](Power-bi%20Dashboard.png)
+![HR Analytics Dashboard](dashboards/Power-bi%20Dashboard.png)  
 
 ---
 
 ## 📌 Key Insights  
-🔹 **Sales & IT departments** have the highest workforce.  
-🔹 **Average salary** is highest in the R&D department.  
-🔹 Majority of employees are concentrated in a few **key states**.  
-🔹 Gender distribution is fairly balanced across the organization.  
-🔹 Attrition trends highlight opportunities for better retention strategies.  
+🔹 Most employees belong to **Sales** and **R&D** departments.  
+🔹 **Attrition rate** is higher in specific roles, highlighting retention issues.  
+🔹 Salary distribution shows gaps between **senior and junior roles**.  
+🔹 Workforce is spread across multiple states, with concentration in a few regions.  
+🔹 HR can focus on **salary restructuring and retention strategies** for better workforce stability.  
 
 ---
 
 ## 🛠️ Tools & Technologies  
 - **Power BI** → Data visualization & dashboarding  
-- **Excel / CSV** → Dataset preparation & cleaning  
-- **DAX (Data Analysis Expressions)** → For KPIs & calculated measures  
+- **CSV Dataset** → HumanResources.csv (employee data)  
 
 ---
 
 ## 👤 Author  
-**Sagar Dabhade**  
+**Sagar Dabhade** 
