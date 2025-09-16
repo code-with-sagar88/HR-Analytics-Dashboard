@@ -53,3 +53,4 @@ A Power BI project by **Sagar Dabhade** showcasing an interactive dashboard for 
 **Sagar Dabhade**  
 
 ---
+🚀 This project is designed to provide quick, data-driven HR insights for decision making.  
